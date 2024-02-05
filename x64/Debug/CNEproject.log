@@ -1,0 +1,5 @@
+﻿  Server.cpp
+C:\Users\RAFAEL MUITO ZIKA\Desktop\makeupwork\CNEproject\CNEproject\Server.cpp(126,33): warning C4018: '<': signed/unsigned mismatch
+C:\Users\RAFAEL MUITO ZIKA\Desktop\makeupwork\CNEproject\CNEproject\Server.cpp(262,48): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\RAFAEL MUITO ZIKA\Desktop\makeupwork\CNEproject\CNEproject\Server.cpp(559): warning C4715: 'Server::HandleRegisterCommand': not all control paths return a value
+  CNEproject.vcxproj -> C:\Users\RAFAEL MUITO ZIKA\Desktop\makeupwork\CNEproject\x64\Debug\CNEproject.exe
